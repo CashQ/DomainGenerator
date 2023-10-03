@@ -72,7 +72,7 @@ def main():
                 print("Please visit https://www.godaddy.com/ to register your domain.")
                 break
             else:
-                print("Invalid input. Please try again.")
+                print("Invalid input. Please try try again.")
 
 if __name__ == "__main__":
     main()
